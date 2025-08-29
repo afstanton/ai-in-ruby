@@ -1,0 +1,3 @@
+[submodule "examples/kg-pipeline"]
+	path = examples/kg-pipeline
+	url = git@github.com:afstanton/kg-pipeline.git
